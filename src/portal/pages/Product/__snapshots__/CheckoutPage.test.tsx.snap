@@ -1,0 +1,847 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CheckoutPage should match snapshot 1`] = `
+<div>
+  <div>
+    <div
+      class="main  "
+    >
+      <div>
+        <nav
+          class="navbar navbar-expand-lg navbar-light bg-light"
+        >
+          <button
+            aria-controls="navbarTogglerDemo03"
+            aria-expanded="false"
+            aria-label="Toggle navigation"
+            class="navbar-toggler"
+            data-target="#navbarTogglerDemo03"
+            data-toggle="collapse"
+            type="button"
+          >
+            <span
+              class="navbar-toggler-icon"
+            />
+          </button>
+          <a
+            class="navbar-brand"
+            href="#"
+            style="font-weight: 700; font-size: 30px;"
+          >
+            KOIO
+          </a>
+          <div
+            class="collapse navbar-collapse"
+            id="navbarTogglerDemo03"
+          >
+            <ul
+              class="navbar-nav mr-auto mt-2 mt-lg-0"
+            >
+              <li
+                class="nav-item active"
+              >
+                <a
+                  class="nav-link"
+                  href="#"
+                >
+                  Shop men 
+                  <span
+                    class="sr-only"
+                  >
+                    (current)
+                  </span>
+                </a>
+              </li>
+              <li
+                class="nav-item"
+              >
+                <a
+                  class="nav-link"
+                  href="#"
+                >
+                   Shop Women
+                </a>
+              </li>
+              <li
+                class="nav-item"
+              >
+                <a
+                  class="nav-link "
+                  href="#"
+                >
+                  About 
+                </a>
+              </li>
+            </ul>
+            <div
+              class="form-inline my-2 my-lg-0"
+            >
+              <ul
+                class="navbar-nav mr-auto mt-2 mt-lg-0"
+              >
+                <li
+                  class="nav-item "
+                >
+                  <a
+                    class="nav-link"
+                    href="#"
+                  >
+                     Locations 
+                    <span
+                      class="sr-only"
+                    >
+                      (current)
+                    </span>
+                  </a>
+                </li>
+                <li
+                  class="nav-item"
+                >
+                  <a
+                    class="nav-link"
+                    href="#"
+                  >
+                      CraftmanShip
+                  </a>
+                </li>
+                <li
+                  class="nav-item"
+                >
+                  <a
+                    class="nav-link "
+                    href="#"
+                  >
+                     Cart (
+                    0
+                    ) 
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </nav>
+      </div>
+      <div
+        class=" Content container-fluid"
+      >
+        <div
+          class="row"
+          style="height: 100%;"
+        >
+          <div
+            class="col Productimages"
+          >
+            <div
+              class=" row"
+            >
+              <div
+                class="col"
+              >
+                <div>
+                  <img
+                    class="image"
+                    src="./image1.jpg"
+                  />
+                </div>
+                <div>
+                  <img
+                    class="image"
+                    src="./image2.png.jpg"
+                  />
+                </div>
+                <div>
+                  <img
+                    class="image"
+                    src="./image3.png"
+                  />
+                </div>
+                <div>
+                  <img
+                    class="image"
+                    src="./image1.jpg"
+                  />
+                </div>
+                <div>
+                  <img
+                    class="image"
+                    src="./image2.png.jpg"
+                  />
+                </div>
+              </div>
+              <div
+                class="col"
+              >
+                <img
+                  class="imageStyle"
+                  id="0"
+                  src="./large1.png"
+                />
+                <img
+                  class="imageStyle"
+                  id="1"
+                  src="./large2.png"
+                />
+                <img
+                  class="imageStyle"
+                  id="2"
+                  src="./large3.png "
+                />
+              </div>
+            </div>
+          </div>
+          <div
+            class="col Productdetails"
+          >
+            <header
+              id="product-header"
+            >
+              <span>
+                Men's
+              </span>
+              <div>
+                CAPRI TRIPLE WHITE
+              </div>
+              <span
+                class="product-pricing"
+              >
+                <span
+                  class="product-price"
+                >
+                  $268
+                </span>
+              </span>
+            </header>
+            <div
+              class="product-option-row product-option-row--productes product-option-row--7 product-option-row--size "
+            >
+              <h5
+                class="product-header"
+              >
+                Size:
+              </h5>
+              <div
+                class="product-element product-element--7-us-40-eu"
+              >
+                <input
+                  checked=""
+                  class="single-option-select"
+                  data-index="option1"
+                  id="product-1-7-us-40-eu"
+                  name="single-option-select-1"
+                  type="radio"
+                  value="7 "
+                />
+                <label
+                  data-size="7"
+                  for="product-1-7-us-40-eu"
+                  style="border: 2px solid black;"
+                  tabindex="0"
+                >
+                  7
+                </label>
+              </div>
+              <div
+                class="product-element product-element--8-us-41-eu"
+              >
+                <input
+                  class="single-option-select"
+                  data-index="option1"
+                  id="product-1-8-us-41-eu"
+                  name="single-option-select-1"
+                  type="radio"
+                  value="8 "
+                />
+                <label
+                  data-size="8"
+                  for="product-1-8-us-41-eu"
+                  tabindex="0"
+                >
+                  8
+                </label>
+              </div>
+              <div
+                class="product-element product-element--9-us-42-eu"
+              >
+                <input
+                  class="single-option-select"
+                  data-index="option1"
+                  id="product-1-9-us-42-eu"
+                  name="single-option-select-1"
+                  type="radio"
+                  value="9 "
+                />
+                <label
+                  data-size="9"
+                  for="product-1-9-us-42-eu"
+                  tabindex="0"
+                >
+                  9
+                </label>
+              </div>
+              <div
+                class="product-element product-element--10-us-43-eu"
+              >
+                <input
+                  class="single-option-select"
+                  data-index="option1"
+                  id="product-1-10-us-43-eu"
+                  name="single-option-select-1"
+                  type="radio"
+                  value="10 "
+                />
+                <label
+                  data-size="10"
+                  for="product-1-10-us-43-eu"
+                  tabindex="0"
+                >
+                  10
+                </label>
+              </div>
+              <div
+                class="product-element product-element--11-us-44-eu"
+              >
+                <input
+                  class="single-option-select"
+                  data-index="option1"
+                  id="product-1-11-us-44-eu"
+                  name="single-option-select-1"
+                  type="radio"
+                  value="11 "
+                />
+                <label
+                  data-size="11"
+                  for="product-1-11-us-44-eu"
+                  tabindex="0"
+                >
+                  11
+                </label>
+              </div>
+              <div
+                class="product-element product-element--12-us-45-eu"
+              >
+                <input
+                  class="single-option-select"
+                  data-index="option1"
+                  id="product-1-12-us-45-eu"
+                  name="single-option-select-1"
+                  type="radio"
+                  value="12 "
+                />
+                <label
+                  data-size="12"
+                  for="product-1-12-us-45-eu"
+                  tabindex="0"
+                >
+                  12
+                </label>
+              </div>
+              <div
+                class="product-element selected-product product-element--13-us-46-eu"
+              >
+                <input
+                  class="single-option-select"
+                  data-index="option1"
+                  id="product-1-13-us-46-eu"
+                  name="single-option-select-1"
+                  type="radio"
+                  value="13 (US) / 46 (EU)"
+                />
+                <label
+                  data-size="13"
+                  for="product-1-13-us-46-eu"
+                  tabindex="0"
+                >
+                  13
+                </label>
+              </div>
+            </div>
+            <div
+              class="product-option-row "
+              id="product-purchase-row"
+            >
+              <button
+                aria-label="Add to Cart"
+                class="btn btn--black btn--block"
+                id="add-to-cart"
+                name="add"
+                type="submit"
+              >
+                <span
+                  class="minicart-add-to-cart-text"
+                  data-add-to-cart-text="Add To Cart"
+                  id="add-to-cart-text"
+                >
+                  Add To Cart
+                </span>
+              </button>
+            </div>
+            <div
+              class="accordion"
+              id="accordionExample"
+            >
+              <div
+                class="card"
+              >
+                <div
+                  class="card-header"
+                  id="headingOne"
+                >
+                  <h2
+                    class="mb-0"
+                  >
+                    <button
+                      aria-controls="collapseOne"
+                      aria-expanded="true"
+                      class="btn "
+                      data-target="#collapseOne"
+                      data-toggle="collapse"
+                      type="button"
+                    >
+                      Product Description
+                    </button>
+                  </h2>
+                </div>
+                <div
+                  aria-labelledby="headingOne"
+                  class="collapse show"
+                  data-parent="#accordionExample"
+                  id="collapseOne"
+                >
+                  <div
+                    class="card-body"
+                  >
+                    Any look, any day. (Every day?) In buttery full-grain calf leather, the men’s Capri Triple White sneakers are the ultimate wardrobe cornerstone. The one that lets you do you. These White Capri shoes are so neutral they freshen and compliment just about anything. These sneakers let you reinvent the fashion wheel, or keep the white capri classic. Rather than canvas, these white low-top sneakers are made with real Italian leather for only the best men’s capri look and wearability. Keep these kicks  fresh or curiously banged up: your choice. Snag yourself a pair before you go out of style.
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Navigation bar should match snapshot 1`] = `
+<div>
+  <div>
+    <div
+      class="main  "
+    >
+      <div>
+        <nav
+          class="navbar navbar-expand-lg navbar-light bg-light"
+        >
+          <button
+            aria-controls="navbarTogglerDemo03"
+            aria-expanded="false"
+            aria-label="Toggle navigation"
+            class="navbar-toggler"
+            data-target="#navbarTogglerDemo03"
+            data-toggle="collapse"
+            type="button"
+          >
+            <span
+              class="navbar-toggler-icon"
+            />
+          </button>
+          <a
+            class="navbar-brand"
+            href="#"
+            style="font-weight: 700; font-size: 30px;"
+          >
+            KOIO
+          </a>
+          <div
+            class="collapse navbar-collapse"
+            id="navbarTogglerDemo03"
+          >
+            <ul
+              class="navbar-nav mr-auto mt-2 mt-lg-0"
+            >
+              <li
+                class="nav-item active"
+              >
+                <a
+                  class="nav-link"
+                  href="#"
+                >
+                  Shop men 
+                  <span
+                    class="sr-only"
+                  >
+                    (current)
+                  </span>
+                </a>
+              </li>
+              <li
+                class="nav-item"
+              >
+                <a
+                  class="nav-link"
+                  href="#"
+                >
+                   Shop Women
+                </a>
+              </li>
+              <li
+                class="nav-item"
+              >
+                <a
+                  class="nav-link "
+                  href="#"
+                >
+                  About 
+                </a>
+              </li>
+            </ul>
+            <div
+              class="form-inline my-2 my-lg-0"
+            >
+              <ul
+                class="navbar-nav mr-auto mt-2 mt-lg-0"
+              >
+                <li
+                  class="nav-item "
+                >
+                  <a
+                    class="nav-link"
+                    href="#"
+                  >
+                     Locations 
+                    <span
+                      class="sr-only"
+                    >
+                      (current)
+                    </span>
+                  </a>
+                </li>
+                <li
+                  class="nav-item"
+                >
+                  <a
+                    class="nav-link"
+                    href="#"
+                  >
+                      CraftmanShip
+                  </a>
+                </li>
+                <li
+                  class="nav-item"
+                >
+                  <a
+                    class="nav-link "
+                    href="#"
+                  >
+                     Cart (
+                    0
+                    ) 
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </nav>
+      </div>
+      <div
+        class=" Content container-fluid"
+      >
+        <div
+          class="row"
+          style="height: 100%;"
+        >
+          <div
+            class="col Productimages"
+          >
+            <div
+              class=" row"
+            >
+              <div
+                class="col"
+              >
+                <div>
+                  <img
+                    class="image"
+                    src="./image1.jpg"
+                  />
+                </div>
+                <div>
+                  <img
+                    class="image"
+                    src="./image2.png.jpg"
+                  />
+                </div>
+                <div>
+                  <img
+                    class="image"
+                    src="./image3.png"
+                  />
+                </div>
+                <div>
+                  <img
+                    class="image"
+                    src="./image1.jpg"
+                  />
+                </div>
+                <div>
+                  <img
+                    class="image"
+                    src="./image2.png.jpg"
+                  />
+                </div>
+              </div>
+              <div
+                class="col"
+              >
+                <img
+                  class="imageStyle"
+                  id="0"
+                  src="./large1.png"
+                />
+                <img
+                  class="imageStyle"
+                  id="1"
+                  src="./large2.png"
+                />
+                <img
+                  class="imageStyle"
+                  id="2"
+                  src="./large3.png "
+                />
+              </div>
+            </div>
+          </div>
+          <div
+            class="col Productdetails"
+          >
+            <header
+              id="product-header"
+            >
+              <span>
+                Men's
+              </span>
+              <div>
+                CAPRI TRIPLE WHITE
+              </div>
+              <span
+                class="product-pricing"
+              >
+                <span
+                  class="product-price"
+                >
+                  $268
+                </span>
+              </span>
+            </header>
+            <div
+              class="product-option-row product-option-row--productes product-option-row--7 product-option-row--size "
+            >
+              <h5
+                class="product-header"
+              >
+                Size:
+              </h5>
+              <div
+                class="product-element product-element--7-us-40-eu"
+              >
+                <input
+                  checked=""
+                  class="single-option-select"
+                  data-index="option1"
+                  id="product-1-7-us-40-eu"
+                  name="single-option-select-1"
+                  type="radio"
+                  value="7 "
+                />
+                <label
+                  data-size="7"
+                  for="product-1-7-us-40-eu"
+                  style="border: 2px solid black;"
+                  tabindex="0"
+                >
+                  7
+                </label>
+              </div>
+              <div
+                class="product-element product-element--8-us-41-eu"
+              >
+                <input
+                  class="single-option-select"
+                  data-index="option1"
+                  id="product-1-8-us-41-eu"
+                  name="single-option-select-1"
+                  type="radio"
+                  value="8 "
+                />
+                <label
+                  data-size="8"
+                  for="product-1-8-us-41-eu"
+                  tabindex="0"
+                >
+                  8
+                </label>
+              </div>
+              <div
+                class="product-element product-element--9-us-42-eu"
+              >
+                <input
+                  class="single-option-select"
+                  data-index="option1"
+                  id="product-1-9-us-42-eu"
+                  name="single-option-select-1"
+                  type="radio"
+                  value="9 "
+                />
+                <label
+                  data-size="9"
+                  for="product-1-9-us-42-eu"
+                  tabindex="0"
+                >
+                  9
+                </label>
+              </div>
+              <div
+                class="product-element product-element--10-us-43-eu"
+              >
+                <input
+                  class="single-option-select"
+                  data-index="option1"
+                  id="product-1-10-us-43-eu"
+                  name="single-option-select-1"
+                  type="radio"
+                  value="10 "
+                />
+                <label
+                  data-size="10"
+                  for="product-1-10-us-43-eu"
+                  tabindex="0"
+                >
+                  10
+                </label>
+              </div>
+              <div
+                class="product-element product-element--11-us-44-eu"
+              >
+                <input
+                  class="single-option-select"
+                  data-index="option1"
+                  id="product-1-11-us-44-eu"
+                  name="single-option-select-1"
+                  type="radio"
+                  value="11 "
+                />
+                <label
+                  data-size="11"
+                  for="product-1-11-us-44-eu"
+                  tabindex="0"
+                >
+                  11
+                </label>
+              </div>
+              <div
+                class="product-element product-element--12-us-45-eu"
+              >
+                <input
+                  class="single-option-select"
+                  data-index="option1"
+                  id="product-1-12-us-45-eu"
+                  name="single-option-select-1"
+                  type="radio"
+                  value="12 "
+                />
+                <label
+                  data-size="12"
+                  for="product-1-12-us-45-eu"
+                  tabindex="0"
+                >
+                  12
+                </label>
+              </div>
+              <div
+                class="product-element selected-product product-element--13-us-46-eu"
+              >
+                <input
+                  class="single-option-select"
+                  data-index="option1"
+                  id="product-1-13-us-46-eu"
+                  name="single-option-select-1"
+                  type="radio"
+                  value="13 (US) / 46 (EU)"
+                />
+                <label
+                  data-size="13"
+                  for="product-1-13-us-46-eu"
+                  tabindex="0"
+                >
+                  13
+                </label>
+              </div>
+            </div>
+            <div
+              class="product-option-row "
+              id="product-purchase-row"
+            >
+              <button
+                aria-label="Add to Cart"
+                class="btn btn--black btn--block"
+                id="add-to-cart"
+                name="add"
+                type="submit"
+              >
+                <span
+                  class="minicart-add-to-cart-text"
+                  data-add-to-cart-text="Add To Cart"
+                  id="add-to-cart-text"
+                >
+                  Add To Cart
+                </span>
+              </button>
+            </div>
+            <div
+              class="accordion"
+              id="accordionExample"
+            >
+              <div
+                class="card"
+              >
+                <div
+                  class="card-header"
+                  id="headingOne"
+                >
+                  <h2
+                    class="mb-0"
+                  >
+                    <button
+                      aria-controls="collapseOne"
+                      aria-expanded="true"
+                      class="btn "
+                      data-target="#collapseOne"
+                      data-toggle="collapse"
+                      type="button"
+                    >
+                      Product Description
+                    </button>
+                  </h2>
+                </div>
+                <div
+                  aria-labelledby="headingOne"
+                  class="collapse show"
+                  data-parent="#accordionExample"
+                  id="collapseOne"
+                >
+                  <div
+                    class="card-body"
+                  >
+                    Any look, any day. (Every day?) In buttery full-grain calf leather, the men’s Capri Triple White sneakers are the ultimate wardrobe cornerstone. The one that lets you do you. These White Capri shoes are so neutral they freshen and compliment just about anything. These sneakers let you reinvent the fashion wheel, or keep the white capri classic. Rather than canvas, these white low-top sneakers are made with real Italian leather for only the best men’s capri look and wearability. Keep these kicks  fresh or curiously banged up: your choice. Snag yourself a pair before you go out of style.
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
