@@ -1,0 +1,12 @@
+[
+  {
+    "env": "localdev",
+    "uiHostname": "localhost",
+    "apiServer": "",
+    "tenant": "",
+    "authApplicationId": "123",
+    "blobStorageAccountPath": "",
+    "instrumentationKey": "",
+    "kssSupportUrl": ""
+  }
+]

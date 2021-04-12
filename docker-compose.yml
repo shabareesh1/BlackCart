@@ -1,0 +1,14 @@
+version: '3'
+services:
+  node:
+    image: 'node:12'
+    user: 'node'
+    working_dir: /home/node/app
+    environment:
+      - NODE_ENV=test
+    volumes:
+      - ./:/home/node/app
+    ports:
+      - '8081:8080'
+    network_mode: 'host'
+    command: ' npm start '
